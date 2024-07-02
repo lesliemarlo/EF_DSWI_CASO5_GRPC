@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "Rs4U9A+qdygUbIbI5IEsV71ZhUOWqiHMNM+lJEAwiBU=",
+  "Source": "GrpcServiceBdClinica",
+  "BasePath": "_content/GrpcServiceBdClinica",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

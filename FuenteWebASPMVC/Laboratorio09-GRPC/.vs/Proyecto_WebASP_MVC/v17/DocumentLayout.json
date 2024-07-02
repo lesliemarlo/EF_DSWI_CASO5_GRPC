@@ -1,0 +1,271 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Users\\Leslie\\Documents\\CIBERTEC\\CICLO5\\DESARROLLO DE SERVICIOS WEB I\\EXAMENF\\VISUAL\\Semana 09\\FuenteWebASPMVC\\Laboratorio09-GRPC\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4CF45292-50FA-492A-BA06-9D39BAD5CCFE}|Proyecto.Presentacion\\Proyecto.Presentacion.csproj|d:\\users\\leslie\\documents\\cibertec\\ciclo5\\desarrollo de servicios web i\\examenf\\visual\\semana 09\\fuentewebaspmvc\\laboratorio09-grpc\\proyecto.presentacion\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CF45292-50FA-492A-BA06-9D39BAD5CCFE}|Proyecto.Presentacion\\Proyecto.Presentacion.csproj|solutionrelative:proyecto.presentacion\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98DD73D0-EC01-4E6F-BF9D-B1273964CC57}|GrpcServiceBdClinica\\GrpcServiceBdClinica.csproj|d:\\users\\leslie\\documents\\cibertec\\ciclo5\\desarrollo de servicios web i\\examenf\\visual\\semana 09\\fuentewebaspmvc\\laboratorio09-grpc\\grpcservicebdclinica\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98DD73D0-EC01-4E6F-BF9D-B1273964CC57}|GrpcServiceBdClinica\\GrpcServiceBdClinica.csproj|solutionrelative:grpcservicebdclinica\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98DD73D0-EC01-4E6F-BF9D-B1273964CC57}|GrpcServiceBdClinica\\GrpcServiceBdClinica.csproj|d:\\users\\leslie\\documents\\cibertec\\ciclo5\\desarrollo de servicios web i\\examenf\\visual\\semana 09\\fuentewebaspmvc\\laboratorio09-grpc\\grpcservicebdclinica\\services\\medicamentoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98DD73D0-EC01-4E6F-BF9D-B1273964CC57}|GrpcServiceBdClinica\\GrpcServiceBdClinica.csproj|solutionrelative:grpcservicebdclinica\\services\\medicamentoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CF45292-50FA-492A-BA06-9D39BAD5CCFE}|Proyecto.Presentacion\\Proyecto.Presentacion.csproj|d:\\users\\leslie\\documents\\cibertec\\ciclo5\\desarrollo de servicios web i\\examenf\\visual\\semana 09\\fuentewebaspmvc\\laboratorio09-grpc\\proyecto.presentacion\\views\\medicamento\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4CF45292-50FA-492A-BA06-9D39BAD5CCFE}|Proyecto.Presentacion\\Proyecto.Presentacion.csproj|solutionrelative:proyecto.presentacion\\views\\medicamento\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CF45292-50FA-492A-BA06-9D39BAD5CCFE}|Proyecto.Presentacion\\Proyecto.Presentacion.csproj|d:\\users\\leslie\\documents\\cibertec\\ciclo5\\desarrollo de servicios web i\\examenf\\visual\\semana 09\\fuentewebaspmvc\\laboratorio09-grpc\\proyecto.presentacion\\views\\medicamento\\listadomedicamentos.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4CF45292-50FA-492A-BA06-9D39BAD5CCFE}|Proyecto.Presentacion\\Proyecto.Presentacion.csproj|solutionrelative:proyecto.presentacion\\views\\medicamento\\listadomedicamentos.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CF45292-50FA-492A-BA06-9D39BAD5CCFE}|Proyecto.Presentacion\\Proyecto.Presentacion.csproj|d:\\users\\leslie\\documents\\cibertec\\ciclo5\\desarrollo de servicios web i\\examenf\\visual\\semana 09\\fuentewebaspmvc\\laboratorio09-grpc\\proyecto.presentacion\\models\\medicamentomodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CF45292-50FA-492A-BA06-9D39BAD5CCFE}|Proyecto.Presentacion\\Proyecto.Presentacion.csproj|solutionrelative:proyecto.presentacion\\models\\medicamentomodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CF45292-50FA-492A-BA06-9D39BAD5CCFE}|Proyecto.Presentacion\\Proyecto.Presentacion.csproj|d:\\users\\leslie\\documents\\cibertec\\ciclo5\\desarrollo de servicios web i\\examenf\\visual\\semana 09\\fuentewebaspmvc\\laboratorio09-grpc\\proyecto.presentacion\\controllers\\medicamentocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CF45292-50FA-492A-BA06-9D39BAD5CCFE}|Proyecto.Presentacion\\Proyecto.Presentacion.csproj|solutionrelative:proyecto.presentacion\\controllers\\medicamentocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CF45292-50FA-492A-BA06-9D39BAD5CCFE}|Proyecto.Presentacion\\Proyecto.Presentacion.csproj|d:\\users\\leslie\\documents\\cibertec\\ciclo5\\desarrollo de servicios web i\\examenf\\visual\\semana 09\\fuentewebaspmvc\\laboratorio09-grpc\\proyecto.presentacion\\views\\shared\\_layoutprincipal.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4CF45292-50FA-492A-BA06-9D39BAD5CCFE}|Proyecto.Presentacion\\Proyecto.Presentacion.csproj|solutionrelative:proyecto.presentacion\\views\\shared\\_layoutprincipal.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CF45292-50FA-492A-BA06-9D39BAD5CCFE}|Proyecto.Presentacion\\Proyecto.Presentacion.csproj|d:\\users\\leslie\\documents\\cibertec\\ciclo5\\desarrollo de servicios web i\\examenf\\visual\\semana 09\\fuentewebaspmvc\\laboratorio09-grpc\\proyecto.presentacion\\models\\paismodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CF45292-50FA-492A-BA06-9D39BAD5CCFE}|Proyecto.Presentacion\\Proyecto.Presentacion.csproj|solutionrelative:proyecto.presentacion\\models\\paismodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98DD73D0-EC01-4E6F-BF9D-B1273964CC57}|GrpcServiceBdClinica\\GrpcServiceBdClinica.csproj|d:\\users\\leslie\\documents\\cibertec\\ciclo5\\desarrollo de servicios web i\\examenf\\visual\\semana 09\\fuentewebaspmvc\\laboratorio09-grpc\\grpcservicebdclinica\\services\\paisservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98DD73D0-EC01-4E6F-BF9D-B1273964CC57}|GrpcServiceBdClinica\\GrpcServiceBdClinica.csproj|solutionrelative:grpcservicebdclinica\\services\\paisservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98DD73D0-EC01-4E6F-BF9D-B1273964CC57}|GrpcServiceBdClinica\\GrpcServiceBdClinica.csproj|d:\\users\\leslie\\documents\\cibertec\\ciclo5\\desarrollo de servicios web i\\examenf\\visual\\semana 09\\fuentewebaspmvc\\laboratorio09-grpc\\grpcservicebdclinica\\protos\\pais.proto||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{98DD73D0-EC01-4E6F-BF9D-B1273964CC57}|GrpcServiceBdClinica\\GrpcServiceBdClinica.csproj|solutionrelative:grpcservicebdclinica\\protos\\pais.proto||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98DD73D0-EC01-4E6F-BF9D-B1273964CC57}|GrpcServiceBdClinica\\GrpcServiceBdClinica.csproj|d:\\users\\leslie\\documents\\cibertec\\ciclo5\\desarrollo de servicios web i\\examenf\\visual\\semana 09\\fuentewebaspmvc\\laboratorio09-grpc\\grpcservicebdclinica\\protos\\medicamento.proto||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{98DD73D0-EC01-4E6F-BF9D-B1273964CC57}|GrpcServiceBdClinica\\GrpcServiceBdClinica.csproj|solutionrelative:grpcservicebdclinica\\protos\\medicamento.proto||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98DD73D0-EC01-4E6F-BF9D-B1273964CC57}|GrpcServiceBdClinica\\GrpcServiceBdClinica.csproj|d:\\users\\leslie\\documents\\cibertec\\ciclo5\\desarrollo de servicios web i\\examenf\\visual\\semana 09\\fuentewebaspmvc\\laboratorio09-grpc\\grpcservicebdclinica\\grpcservicebdclinica.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{98DD73D0-EC01-4E6F-BF9D-B1273964CC57}|GrpcServiceBdClinica\\GrpcServiceBdClinica.csproj|solutionrelative:grpcservicebdclinica\\grpcservicebdclinica.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CF45292-50FA-492A-BA06-9D39BAD5CCFE}|Proyecto.Presentacion\\Proyecto.Presentacion.csproj|d:\\users\\leslie\\documents\\cibertec\\ciclo5\\desarrollo de servicios web i\\examenf\\visual\\semana 09\\fuentewebaspmvc\\laboratorio09-grpc\\proyecto.presentacion\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{4CF45292-50FA-492A-BA06-9D39BAD5CCFE}|Proyecto.Presentacion\\Proyecto.Presentacion.csproj|solutionrelative:proyecto.presentacion\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98DD73D0-EC01-4E6F-BF9D-B1273964CC57}|GrpcServiceBdClinica\\GrpcServiceBdClinica.csproj|d:\\users\\leslie\\documents\\cibertec\\ciclo5\\desarrollo de servicios web i\\examenf\\visual\\semana 09\\fuentewebaspmvc\\laboratorio09-grpc\\grpcservicebdclinica\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{98DD73D0-EC01-4E6F-BF9D-B1273964CC57}|GrpcServiceBdClinica\\GrpcServiceBdClinica.csproj|solutionrelative:grpcservicebdclinica\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MedicamentoModel.cs",
+              "DocumentMoniker": "D:\\Users\\Leslie\\Documents\\CIBERTEC\\CICLO5\\DESARROLLO DE SERVICIOS WEB I\\EXAMENF\\VISUAL\\Semana 09\\FuenteWebASPMVC\\Laboratorio09-GRPC\\Proyecto.Presentacion\\Models\\MedicamentoModel.cs",
+              "RelativeDocumentMoniker": "Proyecto.Presentacion\\Models\\MedicamentoModel.cs",
+              "ToolTip": "D:\\Users\\Leslie\\Documents\\CIBERTEC\\CICLO5\\DESARROLLO DE SERVICIOS WEB I\\EXAMENF\\VISUAL\\Semana 09\\FuenteWebASPMVC\\Laboratorio09-GRPC\\Proyecto.Presentacion\\Models\\MedicamentoModel.cs",
+              "RelativeToolTip": "Proyecto.Presentacion\\Models\\MedicamentoModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-02T03:41:31.976Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Users\\Leslie\\Documents\\CIBERTEC\\CICLO5\\DESARROLLO DE SERVICIOS WEB I\\EXAMENF\\VISUAL\\Semana 09\\FuenteWebASPMVC\\Laboratorio09-GRPC\\GrpcServiceBdClinica\\Program.cs",
+              "RelativeDocumentMoniker": "GrpcServiceBdClinica\\Program.cs",
+              "ToolTip": "D:\\Users\\Leslie\\Documents\\CIBERTEC\\CICLO5\\DESARROLLO DE SERVICIOS WEB I\\EXAMENF\\VISUAL\\Semana 09\\FuenteWebASPMVC\\Laboratorio09-GRPC\\GrpcServiceBdClinica\\Program.cs",
+              "RelativeToolTip": "GrpcServiceBdClinica\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-02T03:32:28.359Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MedicamentoController.cs",
+              "DocumentMoniker": "D:\\Users\\Leslie\\Documents\\CIBERTEC\\CICLO5\\DESARROLLO DE SERVICIOS WEB I\\EXAMENF\\VISUAL\\Semana 09\\FuenteWebASPMVC\\Laboratorio09-GRPC\\Proyecto.Presentacion\\Controllers\\MedicamentoController.cs",
+              "RelativeDocumentMoniker": "Proyecto.Presentacion\\Controllers\\MedicamentoController.cs",
+              "ToolTip": "D:\\Users\\Leslie\\Documents\\CIBERTEC\\CICLO5\\DESARROLLO DE SERVICIOS WEB I\\EXAMENF\\VISUAL\\Semana 09\\FuenteWebASPMVC\\Laboratorio09-GRPC\\Proyecto.Presentacion\\Controllers\\MedicamentoController.cs",
+              "RelativeToolTip": "Proyecto.Presentacion\\Controllers\\MedicamentoController.cs",
+              "ViewState": "AQIAAFQAAAAAAAAAAAAIwGIAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-02T02:39:27.351Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "listadoMedicamentos.cshtml",
+              "DocumentMoniker": "D:\\Users\\Leslie\\Documents\\CIBERTEC\\CICLO5\\DESARROLLO DE SERVICIOS WEB I\\EXAMENF\\VISUAL\\Semana 09\\FuenteWebASPMVC\\Laboratorio09-GRPC\\Proyecto.Presentacion\\Views\\Medicamento\\listadoMedicamentos.cshtml",
+              "RelativeDocumentMoniker": "Proyecto.Presentacion\\Views\\Medicamento\\listadoMedicamentos.cshtml",
+              "ToolTip": "D:\\Users\\Leslie\\Documents\\CIBERTEC\\CICLO5\\DESARROLLO DE SERVICIOS WEB I\\EXAMENF\\VISUAL\\Semana 09\\FuenteWebASPMVC\\Laboratorio09-GRPC\\Proyecto.Presentacion\\Views\\Medicamento\\listadoMedicamentos.cshtml",
+              "RelativeToolTip": "Proyecto.Presentacion\\Views\\Medicamento\\listadoMedicamentos.cshtml",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAABYAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-02T01:19:55.537Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MedicamentoService.cs",
+              "DocumentMoniker": "D:\\Users\\Leslie\\Documents\\CIBERTEC\\CICLO5\\DESARROLLO DE SERVICIOS WEB I\\EXAMENF\\VISUAL\\Semana 09\\FuenteWebASPMVC\\Laboratorio09-GRPC\\GrpcServiceBdClinica\\Services\\MedicamentoService.cs",
+              "RelativeDocumentMoniker": "GrpcServiceBdClinica\\Services\\MedicamentoService.cs",
+              "ToolTip": "D:\\Users\\Leslie\\Documents\\CIBERTEC\\CICLO5\\DESARROLLO DE SERVICIOS WEB I\\EXAMENF\\VISUAL\\Semana 09\\FuenteWebASPMVC\\Laboratorio09-GRPC\\GrpcServiceBdClinica\\Services\\MedicamentoService.cs",
+              "RelativeToolTip": "GrpcServiceBdClinica\\Services\\MedicamentoService.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAA0wBIAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-02T03:39:37.832Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Users\\Leslie\\Documents\\CIBERTEC\\CICLO5\\DESARROLLO DE SERVICIOS WEB I\\EXAMENF\\VISUAL\\Semana 09\\FuenteWebASPMVC\\Laboratorio09-GRPC\\Proyecto.Presentacion\\Program.cs",
+              "RelativeDocumentMoniker": "Proyecto.Presentacion\\Program.cs",
+              "ToolTip": "D:\\Users\\Leslie\\Documents\\CIBERTEC\\CICLO5\\DESARROLLO DE SERVICIOS WEB I\\EXAMENF\\VISUAL\\Semana 09\\FuenteWebASPMVC\\Laboratorio09-GRPC\\Proyecto.Presentacion\\Program.cs",
+              "RelativeToolTip": "Proyecto.Presentacion\\Program.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAUwA0AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-02T03:34:41.383Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Users\\Leslie\\Documents\\CIBERTEC\\CICLO5\\DESARROLLO DE SERVICIOS WEB I\\EXAMENF\\VISUAL\\Semana 09\\FuenteWebASPMVC\\Laboratorio09-GRPC\\Proyecto.Presentacion\\Views\\Medicamento\\Index.cshtml",
+              "RelativeDocumentMoniker": "Proyecto.Presentacion\\Views\\Medicamento\\Index.cshtml",
+              "ToolTip": "D:\\Users\\Leslie\\Documents\\CIBERTEC\\CICLO5\\DESARROLLO DE SERVICIOS WEB I\\EXAMENF\\VISUAL\\Semana 09\\FuenteWebASPMVC\\Laboratorio09-GRPC\\Proyecto.Presentacion\\Views\\Medicamento\\Index.cshtml",
+              "RelativeToolTip": "Proyecto.Presentacion\\Views\\Medicamento\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-02T03:59:43.045Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "PaisModel.cs",
+              "DocumentMoniker": "D:\\Users\\Leslie\\Documents\\CIBERTEC\\CICLO5\\DESARROLLO DE SERVICIOS WEB I\\EXAMENF\\VISUAL\\Semana 09\\FuenteWebASPMVC\\Laboratorio09-GRPC\\Proyecto.Presentacion\\Models\\PaisModel.cs",
+              "RelativeDocumentMoniker": "Proyecto.Presentacion\\Models\\PaisModel.cs",
+              "ToolTip": "D:\\Users\\Leslie\\Documents\\CIBERTEC\\CICLO5\\DESARROLLO DE SERVICIOS WEB I\\EXAMENF\\VISUAL\\Semana 09\\FuenteWebASPMVC\\Laboratorio09-GRPC\\Proyecto.Presentacion\\Models\\PaisModel.cs",
+              "RelativeToolTip": "Proyecto.Presentacion\\Models\\PaisModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-02T03:42:28.98Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "_LayoutPrincipal.cshtml",
+              "DocumentMoniker": "D:\\Users\\Leslie\\Documents\\CIBERTEC\\CICLO5\\DESARROLLO DE SERVICIOS WEB I\\EXAMENF\\VISUAL\\Semana 09\\FuenteWebASPMVC\\Laboratorio09-GRPC\\Proyecto.Presentacion\\Views\\Shared\\_LayoutPrincipal.cshtml",
+              "RelativeDocumentMoniker": "Proyecto.Presentacion\\Views\\Shared\\_LayoutPrincipal.cshtml",
+              "ToolTip": "D:\\Users\\Leslie\\Documents\\CIBERTEC\\CICLO5\\DESARROLLO DE SERVICIOS WEB I\\EXAMENF\\VISUAL\\Semana 09\\FuenteWebASPMVC\\Laboratorio09-GRPC\\Proyecto.Presentacion\\Views\\Shared\\_LayoutPrincipal.cshtml",
+              "RelativeToolTip": "Proyecto.Presentacion\\Views\\Shared\\_LayoutPrincipal.cshtml",
+              "ViewState": "AQIAADIAAAAAAAAAAAAYwD4AAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-02T03:08:26.146Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "PaisService.cs",
+              "DocumentMoniker": "D:\\Users\\Leslie\\Documents\\CIBERTEC\\CICLO5\\DESARROLLO DE SERVICIOS WEB I\\EXAMENF\\VISUAL\\Semana 09\\FuenteWebASPMVC\\Laboratorio09-GRPC\\GrpcServiceBdClinica\\Services\\PaisService.cs",
+              "RelativeDocumentMoniker": "GrpcServiceBdClinica\\Services\\PaisService.cs",
+              "ToolTip": "D:\\Users\\Leslie\\Documents\\CIBERTEC\\CICLO5\\DESARROLLO DE SERVICIOS WEB I\\EXAMENF\\VISUAL\\Semana 09\\FuenteWebASPMVC\\Laboratorio09-GRPC\\GrpcServiceBdClinica\\Services\\PaisService.cs",
+              "RelativeToolTip": "GrpcServiceBdClinica\\Services\\PaisService.cs",
+              "ViewState": "AQIAABwAAAAAAAAAAAAIwDMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-02T03:40:13.922Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "pais.proto",
+              "DocumentMoniker": "D:\\Users\\Leslie\\Documents\\CIBERTEC\\CICLO5\\DESARROLLO DE SERVICIOS WEB I\\EXAMENF\\VISUAL\\Semana 09\\FuenteWebASPMVC\\Laboratorio09-GRPC\\GrpcServiceBdClinica\\Protos\\pais.proto",
+              "RelativeDocumentMoniker": "GrpcServiceBdClinica\\Protos\\pais.proto",
+              "ToolTip": "D:\\Users\\Leslie\\Documents\\CIBERTEC\\CICLO5\\DESARROLLO DE SERVICIOS WEB I\\EXAMENF\\VISUAL\\Semana 09\\FuenteWebASPMVC\\Laboratorio09-GRPC\\GrpcServiceBdClinica\\Protos\\pais.proto",
+              "RelativeToolTip": "GrpcServiceBdClinica\\Protos\\pais.proto",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003853|",
+              "WhenOpened": "2024-07-02T03:38:58.383Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "medicamento.proto",
+              "DocumentMoniker": "D:\\Users\\Leslie\\Documents\\CIBERTEC\\CICLO5\\DESARROLLO DE SERVICIOS WEB I\\EXAMENF\\VISUAL\\Semana 09\\FuenteWebASPMVC\\Laboratorio09-GRPC\\GrpcServiceBdClinica\\Protos\\medicamento.proto",
+              "RelativeDocumentMoniker": "GrpcServiceBdClinica\\Protos\\medicamento.proto",
+              "ToolTip": "D:\\Users\\Leslie\\Documents\\CIBERTEC\\CICLO5\\DESARROLLO DE SERVICIOS WEB I\\EXAMENF\\VISUAL\\Semana 09\\FuenteWebASPMVC\\Laboratorio09-GRPC\\GrpcServiceBdClinica\\Protos\\medicamento.proto",
+              "RelativeToolTip": "GrpcServiceBdClinica\\Protos\\medicamento.proto",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAqwBwAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003853|",
+              "WhenOpened": "2024-07-02T03:35:48.103Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "GrpcServiceBdClinica.csproj",
+              "DocumentMoniker": "D:\\Users\\Leslie\\Documents\\CIBERTEC\\CICLO5\\DESARROLLO DE SERVICIOS WEB I\\EXAMENF\\VISUAL\\Semana 09\\FuenteWebASPMVC\\Laboratorio09-GRPC\\GrpcServiceBdClinica\\GrpcServiceBdClinica.csproj",
+              "RelativeDocumentMoniker": "GrpcServiceBdClinica\\GrpcServiceBdClinica.csproj",
+              "ToolTip": "D:\\Users\\Leslie\\Documents\\CIBERTEC\\CICLO5\\DESARROLLO DE SERVICIOS WEB I\\EXAMENF\\VISUAL\\Semana 09\\FuenteWebASPMVC\\Laboratorio09-GRPC\\GrpcServiceBdClinica\\GrpcServiceBdClinica.csproj",
+              "RelativeToolTip": "GrpcServiceBdClinica\\GrpcServiceBdClinica.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-07-02T03:35:49.954Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Users\\Leslie\\Documents\\CIBERTEC\\CICLO5\\DESARROLLO DE SERVICIOS WEB I\\EXAMENF\\VISUAL\\Semana 09\\FuenteWebASPMVC\\Laboratorio09-GRPC\\Proyecto.Presentacion\\appsettings.json",
+              "RelativeDocumentMoniker": "Proyecto.Presentacion\\appsettings.json",
+              "ToolTip": "D:\\Users\\Leslie\\Documents\\CIBERTEC\\CICLO5\\DESARROLLO DE SERVICIOS WEB I\\EXAMENF\\VISUAL\\Semana 09\\FuenteWebASPMVC\\Laboratorio09-GRPC\\Proyecto.Presentacion\\appsettings.json",
+              "RelativeToolTip": "Proyecto.Presentacion\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-02T03:34:46.417Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Users\\Leslie\\Documents\\CIBERTEC\\CICLO5\\DESARROLLO DE SERVICIOS WEB I\\EXAMENF\\VISUAL\\Semana 09\\FuenteWebASPMVC\\Laboratorio09-GRPC\\GrpcServiceBdClinica\\appsettings.json",
+              "RelativeDocumentMoniker": "GrpcServiceBdClinica\\appsettings.json",
+              "ToolTip": "D:\\Users\\Leslie\\Documents\\CIBERTEC\\CICLO5\\DESARROLLO DE SERVICIOS WEB I\\EXAMENF\\VISUAL\\Semana 09\\FuenteWebASPMVC\\Laboratorio09-GRPC\\GrpcServiceBdClinica\\appsettings.json",
+              "RelativeToolTip": "GrpcServiceBdClinica\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-02T03:32:24.659Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

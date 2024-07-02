@@ -1,0 +1,2 @@
+obj\Debug\net6.0/Medicamento.cs \
+obj\Debug\net6.0/MedicamentoGrpc.cs: ../GrpcServiceBdClinica/Protos/medicamento.proto

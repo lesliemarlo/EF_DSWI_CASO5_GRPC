@@ -1,0 +1,25 @@
+syntax = "proto3";
+
+option csharp_namespace = "GrpcServiceBdClinica.Protos";
+package Pais;
+
+// Método de servicio: Eso quiere decir que se usará un servicio Pais que tendrá un 
+// método de tipo listado y retornará un listado   
+// tendrá parámetro 
+service Pais { 
+  rpc listadoPais(MyEmpty) returns (paisListResponse); 
+}
+
+// Definición de mensajes (el mensaje se enviará vacío)
+// siempre comienza en 1 
+message MyEmpty {}  // Cambié el nombre de Empty a MyEmpty
+message paisResponse { 
+  int32 ide_pai = 1; 
+  string nom_pai = 2;  
+} 
+
+/* La respuesta tendrá los siguientes atributos */ 
+/* repeated quiere decir que el listado podrá tener 0 filas o varias */ 
+message paisListResponse { 
+  repeated paisResponse items = 1; 
+}

@@ -1,0 +1,2 @@
+obj\Debug\net6.0/Pais.cs \
+obj\Debug\net6.0/PaisGrpc.cs: ../GrpcServiceBdClinica/Protos/pais.proto

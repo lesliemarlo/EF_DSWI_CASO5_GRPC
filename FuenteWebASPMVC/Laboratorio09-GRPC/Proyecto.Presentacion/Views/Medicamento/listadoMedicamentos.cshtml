@@ -1,0 +1,63 @@
+﻿@model IEnumerable<Proyecto.Presentacion.Models.MedicamentoModel>
+
+@{
+    ViewData["Title"] = "listadoMedicamentos";
+    Layout = "~/Views/Shared/_LayoutPrincipal.cshtml";
+}
+
+<h1 style="text-align:center">LISTADO DE MEDICAMENTOS</h1>
+<hr />
+
+<div class="card shadow mb-4">
+    <div class="card-body">
+        <!--Muestra un dropdown que lista todos los países disponibles y verifica si ViewBag.ListaPaises no es nulo
+        -->
+        <div class="form-group">
+            @if (ViewBag.ListaPaises != null)
+            {
+                @Html.DropDownList("paisSeleccionado", new SelectList(ViewBag.ListaPaises, "nom_pai", "nom_pai"), "Seleccione un país", new { @class = "form-control", onchange = "filtrarPorPais(this.value)" })
+            }
+            else
+            {
+                <span>No hay países disponibles.</span>
+            }
+        </div>
+
+        <div class="table-responsive">
+            <table class="table table-bordered" id="dataTable" width="100%" cellspacing="0">
+                <thead>
+                    <tr>
+                        <th>@Html.DisplayNameFor(model => model.ide_med)</th>
+                        <th>@Html.DisplayNameFor(model => model.nom_med)</th>
+                        <th>@Html.DisplayNameFor(model => model.des_med)</th>
+                        <th>@Html.DisplayNameFor(model => model.rec_med)</th>
+                        <th>@Html.DisplayNameFor(model => model.via_med)</th>
+                        <th>@Html.DisplayNameFor(model => model.cos_med)</th>
+                        <th>@Html.DisplayNameFor(model => model.nom_pai)</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    @foreach (var item in Model)
+                    {
+                        <tr>
+                            <td>@Html.DisplayFor(modelItem => item.ide_med)</td>
+                            <td>@Html.DisplayFor(modelItem => item.nom_med)</td>
+                            <td>@Html.DisplayFor(modelItem => item.des_med)</td>
+                            <td>@Html.DisplayFor(modelItem => item.rec_med)</td>
+                            <td>@Html.DisplayFor(modelItem => item.via_med)</td>
+                            <td>@Html.DisplayFor(modelItem => item.cos_med)</td>
+                            <td>@Html.DisplayFor(modelItem => item.nom_pai)</td>
+                        </tr>
+                    }
+                </tbody>
+            </table>
+        </div>
+    </div>
+</div>
+
+<!-- Esta función se llama cuando se cambia la selección en el dropdown de países.-->
+<script>
+    function filtrarPorPais(pais) {
+        window.location.href = '/Medicamento/ListadoMedicamentosPorPais?paisSeleccionado=' + pais;
+    }
+</script>

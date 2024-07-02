@@ -1,0 +1,29 @@
+syntax = "proto3";
+
+option csharp_namespace = "GrpcServiceBdClinica.Protos";
+package Medicamento; 
+
+//Metodo de sevicio  :Eso quiere deceir que se usará un servicio Medicamento que tendra un  
+//metodo de tipo listado y retornará un lsiado   
+//tendrá parametro 
+service Medicamento{ 
+rpc listadoMedicamentos(Empty) returns (medicamentoListResponse); 
+} 
+//Definicion de mensajes( el emnsaje se enviará vacio) 
+//siempre comiensa en 1 
+message Empty{} 
+message medicamentoResponse{ 
+int32 ide_med=1; 
+string nom_med=2; 
+string des_med=3; 
+string rec_med=4; 
+string via_med=5; 
+double cos_med=6; 
+string nom_pai=7; 
+} 
+  
+/*La respuesta tendrá los siguientes atributos*/ 
+/* repeated  quiere decir que el listado podrá tener 0 filas o varias*/ 
+message medicamentoListResponse{ 
+repeated medicamentoResponse items=1; 
+} 
